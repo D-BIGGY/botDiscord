@@ -12,8 +12,9 @@ se non è come quello riportato nell'immagine sottostante (java x.x.x) bisogna s
 
 
 # passo 0.1: installare java
-andare al link https://www.oracle.com/java/technologies/downloads/#jdk21-windows e installare il file x64 MSI installer cliccando il link (evidenziato nella foto sottostante)
-<img width="1760" height="856" alt="Pasted image 20251109011619" src="https://github.com/user-attachments/assets/2b5e1f91-b35a-4ffd-b955-614d295ac7af" />
+andare al link https://www.oracle.com/java/technologies/downloads/#jdk21-windows e, nella sezione "windows" installare il file x64 MSI installer cliccando il link (evidenziato nella foto sottostante)
+
+<img width="1845" height="712" alt="Screenshot 2025-11-10 081850" src="https://github.com/user-attachments/assets/3efd7bea-bc55-4903-9815-17de380eebda" />
 
 fare doppio click sul file installato. dare gli accessi e procedere all'installazione. apparirà una finestra come questa: 
 <img width="490" height="378" alt="Pasted image 20251109011909" src="https://github.com/user-attachments/assets/6d544c4b-b676-46c2-82a5-753f17a538c2" />
